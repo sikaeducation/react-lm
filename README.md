@@ -1,15 +1,3 @@
-# React
+# react-lm
 
-In this course, you'll learn how to:
-
-* Build static websites using React
-* Build simple dynamic applications using React
-* Apply component composition and performance improvement techniques
-
-Please refer to the [Course Handbook](/handbook) for information about how to make the most of this course.
-
-## Course Content
-
-* [JS](/js)
-* [Basic React](/basic-react)
-* [Advanced React](/advanced-react)
+Retired 2026-09-22. The standards, sequences, and package record from this repo are in `sikaeducation/bank` under `curriculum/`; the readings it copied are in `sikaeducation/posts`. The full tree is in this repo's history before this commit.
